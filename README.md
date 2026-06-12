@@ -1,12 +1,12 @@
- Sistema Bancário em POO com Python
+  Sistema Bancário em POO com Python
 
 Sistema bancário em Python utilizando Programação Orientada a Objetos (POO), desenvolvido como desafio prático da DIO.
 
  Descrição
 
-Projeto desenvolvido durante o bootcamp da DIO para aplicar conceitos de Programação Orientada a Objetos (POO) em Python. O sistema simula operações bancárias e o gerenciamento de clientes e contas.
+Projeto desenvolvido durante o bootcamp da DIO para aplicar conceitos de Programação Orientada a Objetos (POO) em Python. O sistema simula operações bancárias e gerenciamento de clientes e contas.
 
- Funcionalidades
+Funcionalidades
 
  Cadastro de clientes
  Criação de contas bancárias
@@ -17,7 +17,7 @@ Projeto desenvolvido durante o bootcamp da DIO para aplicar conceitos de Program
 
  Tecnologias Utilizadas
 
- Python 3
+Python 3
  Programação Orientada a Objetos (POO)
 
  Autor
